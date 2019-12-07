@@ -1,6 +1,11 @@
 # Dont-Starve-Mod
-This is a character mod of a popular wilderness survival game Don't Starve. Follow the user manual to install our mod. Have fun! 
+This is a character mod of a popular wilderness survival game Don't Starve. Follow the user manual to install our mod and have fun! 
 ![nezha in game](UserGuideImages/nezha_in_game.jpg)
+# Character Features
+Name: Nezha
+- two forms (small form and big form), which can tranform to each other under different conditions
+- two forms have distinct appearance and properties (i.e., defense value, attack value etc.)
+- three featured item/weapons: Fire Spear, Qiankun Ring, and Red Armillary Sash
 
 For detailed information, please see the [DesignOfNeZha.md](ChickenDinner/docs/DesignOfNeZha.md)
 # User Manual
@@ -34,7 +39,7 @@ Click on "Configure Mod" button, and go to Configure page to adjust parameters o
 ![configure page](UserGuideImages/configure_page.jpg)
 
 ## 4. Start a New Game with our Mods
-It's time to start a new game!
+It's time to start a new game! Have fun!
 ![start new game](UserGuideImages/start_new_game.jpg)
 
 Click on "Play!", "New Game" and then select "DS"or what ever you want, click on "Character" and go to character menu, find our new character named Nezha, apply it. Now you can start game.
