@@ -4,11 +4,11 @@ This is a character mod of a popular wilderness survival game Don't Starve. Inst
 
 ## Table of Contents
 
-- [Character Features](#character features)
+- [Feature](#feature)
 - [Install](#install)
 - [Contributors](#contributors)
 
-# Character Features
+# Feature
 
 Character Name: Nezha
 - two forms (small form and big form), which can tranform to each other under different conditions
